@@ -1,0 +1,21 @@
+SUMMARY
+-------
+
+This project was created after I noticed, that on
+
+  http://de.wikipedia.org/wiki/Generische_Programmierung
+
+the link to my old project does not work anymore.  As I entered the
+worklife and therefore just finished university -- leaving behind all
+my ancient code on the server.
+
+INSTALL
+-------
+
+To install this example project, just
+  make
+the project.
+
+There happens to exist also a
+  make clean
+which clean up the directory of all object files and executables.
